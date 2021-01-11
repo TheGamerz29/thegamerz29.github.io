@@ -11,6 +11,22 @@ Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this 
 
 You may download it below:
 
-[E.F.V.S.L.C](https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe)
+> **[E.F.V.S.L.C](https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe)**
+
+##### Ez_Termux_Desktop
+Beautiful Termux desktop environment in a single script
+> Installation
+```bash
+git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_Desktop && clear && bash install.sh
+```
+
+##### PHTB-
+Hack/Recover Wifi or Files using Brute-Force method.
+
+![downloadphtb](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
+
+> **[PHTB](https://github.com/TheGamerz29/PHTB-/blob/master/PHTB%20V1.00BETA/PHTB%20V1.34%20Release%20Installer.exe)**
+
+You may download it below.
 #### *View all of my repositories [here](https://github.com/TheGamerz29).*
 
