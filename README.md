@@ -25,6 +25,8 @@ Hack/Recover Wifi or Files using Brute-Force method.
 
 ![downloadphtb](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
 
+You may download it below:
+
 > ***[PHTB](https://github.com/TheGamerz29/PHTB-/blob/master/PHTB%20V1.00BETA/PHTB%20V1.34%20Release%20Installer.exe)***
 
 ##### Down-for-Everyone-or-Just-Me
@@ -39,8 +41,8 @@ Well, I have created this useless project to answer that question.😏
 ![downloadDFJM](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
 
 > ***[Down-for-Everyone-or-Just-Me-x64](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x64.exe)***
+
 > ***[Down-for-Everyone-or-Just-Me-x86](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x86.exe)***
 
-You may download it below.
 #### *View all of my repositories [here](https://github.com/TheGamerz29).*
 
