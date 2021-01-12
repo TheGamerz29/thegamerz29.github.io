@@ -92,6 +92,8 @@ Tools i used for coding!<br>
 ![GSPWPOW](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWPOW.png)<br>
 > *Powershell Mode*<br>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Tool to gain system privilege in windows. Very useful for system administrator. *[Learn more...](https://thegamerz29.github.io/GSPW)*<br>
 
 Download x64:<br>
