@@ -1,22 +1,23 @@
 ![logo](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Logo.png)![code](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/CODE.png)
 # thegamerz29.github.io
-TheGamerz29 Website!
+Welcome to TheGamerz29 Website! (Under work in progress)
+
 Download links to all of my github project is available here.
 
 ## Downloads
 ##### E.F.V.S.L.C
-Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this before.The Only thing that I. can describe it.This Fake virus simulator is only developed by one person.
+Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this before.The Only thing that I. can describe it.This Fake virus simulator is only developed by one person.*[Learn more...](https://thegamerz29.github.io/E.F.V.S.L.C-Fake-Virus-Simulator/#efvslc-)*
 
 ![download](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
 
 You may download it below:
-------------------------------------------------------------------------------------------------------------------------------------------
-| ***[E.F.V.S.L.C](https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe)*** |
-------------------------------------------------------------------------------------------------------------------------------------------
+
+> ***[E.F.V.S.L.C](https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe)*** 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### Ez_Termux_Desktop
-Beautiful Termux desktop environment in a single script
+Beautiful Termux desktop environment in a single script.*[Learn more...](https://github.com/TheGamerz29/Ez_Termux_Desktop#ez_termux_desktop)*
 > Installation
 ```bash
 git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_Desktop && clear && bash install.sh
@@ -24,7 +25,7 @@ git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_D
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### PHTB-
-Hack/Recover Wifi or Files using Brute-Force method.
+Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://thegamerz29.github.io/PHTB-/#phtb-)
 
 ![downloadphtb](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
 
