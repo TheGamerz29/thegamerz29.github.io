@@ -1,4 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ![logo](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Logo.png)![code](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/CODE.png)
 # thegamerz29.github.io
 Welcome to TheGamerz29 Website! (W.I.P)<br>
