@@ -26,7 +26,7 @@ Ez_Termux_Desktop (DEPRECATED)<br>
   * [Down for Everyone or Just Me](https://thegamerz29.github.io/#down-for-everyone-or-just-me)
   * [Compiler](https://thegamerz29.github.io/#compiler)
   * [GSPW: Gain System Permission in Windows](https://thegamerz29.github.io/#gspw-gain-system-privilege-in-windows)<br>
-<br>
+
 #### E.F.V.S.L.C
 ![E.F.V.L.Cimg](https://content.instructables.com/ORIG/FEW/1TB2/KBRXY7R8/FEW1TB2KBRXY7R8.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=8233361f398eddbeb7c55e413bb5ac3a)<br>
 <br>
