@@ -25,7 +25,7 @@ git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_D
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### PHTB-
-Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://thegamerz29.github.io/PHTB-/#phtb-)
+Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://thegamerz29.github.io/PHTB-/#phtb-)*
 
 ![downloadphtb](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
 
