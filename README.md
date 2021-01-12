@@ -13,6 +13,12 @@ Everything I have ever down in github and others is available here.<br>
 
 ## Downloads
 ### **My projects**
+* Table of content:
+  * [E.F.V.S.L.C](https://thegamerz29.github.io/#efvslc)
+  * [Ez-Termux-Desktop](https://thegamerz29.github.io/#ez_termux_desktop)
+  * [PHTB-](https://thegamerz29.github.io/#phtb-)
+  * [Down for Everyone or Just Me](https://thegamerz29.github.io/#down-for-everyone-or-just-me?)
+  * [Compiler](https://thegamerz29.github.io/#Compiler)
 #### E.F.V.S.L.C
 ![E.F.V.L.Cimg](https://content.instructables.com/ORIG/FEW/1TB2/KBRXY7R8/FEW1TB2KBRXY7R8.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=8233361f398eddbeb7c55e413bb5ac3a)<br>
 <br>
@@ -42,7 +48,7 @@ Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://th
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Down-for-Everyone-or-Just-Me
+#### Down for Everyone or Just Me?
 ![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/raw/gh-pages/raw/DFJM.ico)
 
 Have you ever tried to access a website but it does not loads???😭<br>
