@@ -167,6 +167,8 @@ LIKO-12 is a fantasy computer that you can use to make, play and share tiny retr
 DiskOS provides an environment with basic command line programs and visual game editors.<br>
 The created games and programs are saved as disk files that can be easily shared to friends or anyone else. *[Learn more...](https://github.com/TheGamerz29/LIKO-12/blob/master/README.md)*<br>
 
+![liko](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Liko-12img.png)
+
 > [Here is the link to liko-12 website](https://liko-12.github.io/#/)
 
 Download Changelog.txt:<br>
