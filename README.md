@@ -118,7 +118,7 @@ Download README:<br>
 
 ### **Forks**
 * Table of content:
-  * [Macintosh.js by felixrieseberg](https://thegamerz29.github.io/#macintosh.js)
+  * [Macintosh.js by felixrieseberg](https://thegamerz29.github.io/#macintoshjs)
   * [tmoe-linux by 2moe](https://thegamerz29.github.io/#tmoe-linux)
   * [LIKO-12 by LIKO-12](https://thegamerz29.github.io/#liko-12)
   * [virusbreak by s-andrews](https://thegamerz29.github.io/#virusbreak)
