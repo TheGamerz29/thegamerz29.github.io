@@ -27,7 +27,7 @@ Ez_Termux_Desktop (DEPRECATED)<br>
   * [Compiler](https://thegamerz29.github.io/#compiler)
   * [GSPW: Gain System Permission in Windows](https://thegamerz29.github.io/#gspw-gain-system-privilege-in-windows)<br>
 
-#### E.F.V.S.L.C
+#### **E.F.V.S.L.C**
 ![E.F.V.L.Cimg](https://content.instructables.com/ORIG/FEW/1TB2/KBRXY7R8/FEW1TB2KBRXY7R8.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=8233361f398eddbeb7c55e413bb5ac3a)<br>
 <br>
 Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this before.The Only thing that I. can describe it.This Fake virus simulator is only developed by one person. *[Learn more...](https://thegamerz29.github.io/E.F.V.S.L.C-Fake-Virus-Simulator/#efvslc-)*
@@ -38,7 +38,7 @@ Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Ez_Termux_Desktop (DEPRECATED)
+#### **Ez_Termux_Desktop** (DEPRECATED)
 ![Image](https://github.com/adi1090x/termux-desktop/raw/master/previews/logo.png)
 Beautiful Termux desktop environment in a single script.*[Learn more...](https://github.com/TheGamerz29/Ez_Termux_Desktop#ez_termux_desktop)*
 > Installation
@@ -47,7 +47,7 @@ git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_D
 ```
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### PHTB-
+#### **PHTB-**
 Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://thegamerz29.github.io/PHTB-/#phtb-)*
 
 <a href="https://github.com/TheGamerz29/PHTB-/releases/download/V1.36X/PHTB.V1.34.Release.Installer.zip" download="#PHTB">
@@ -56,7 +56,7 @@ Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://th
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Down for Everyone or Just Me?
+#### **Down for Everyone or Just Me?**
 ![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/raw/gh-pages/raw/DFJM.ico)
 
 Have you ever tried to access a website but it does not loads???😭<br>
@@ -75,7 +75,7 @@ Download x86:<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Compiler
+#### **Compiler**
 ![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Compiler.png)<br>
 Tools i used for coding!<br>
 <a href="https://github.com/TheGamerz29/Compiler/releases/download/0.12/Compiler.zip" download="#comp">
@@ -84,7 +84,7 @@ Tools i used for coding!<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### GSPW: Gain System Privilege in Windows
+#### **GSPW: Gain System Privilege in Windows**
 Tool to gain system privilege in windows. Very useful for system administrator. *[Learn more...](https://thegamerz29.github.io/GSPW)*<br>
 
 Download x64:<br>
