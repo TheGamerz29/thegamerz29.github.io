@@ -5,7 +5,7 @@ Everything I have ever down in github and others is available here.<br>
 <br>
 **Contents**<br>
 * Downloads
-  * [My projects](https://thegamerz.github.io/#my-projects)
+  * [My projects](https://thegamerz29.github.io/#my-projects)
   * [Forks](https://thegamerz29.github.io/#forks)
 * Other
   * [Upcoming Projects](https://thegamerz29.github.io/#upcoming-projects)
