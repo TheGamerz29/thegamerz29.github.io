@@ -82,7 +82,7 @@ Tools i used for coding!<br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### GSPW: Gain System Privilege in Windows
-Tool to gain system privilege in windows. Very useful for system administrator. *[Learn more...](https://thegamerz29.github.io/GSPW)<br>
+Tool to gain system privilege in windows. Very useful for system administrator. *[Learn more...](https://thegamerz29.github.io/GSPW)*<br>
 
 Download x64:<br>
 <a href="https://github.com/TheGamerz29/GSPW/releases/download/1.0.0.0/GSPWx64.exe" download="#GSPW">
