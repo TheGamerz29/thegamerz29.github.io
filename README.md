@@ -60,7 +60,7 @@ Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://th
 
 Have you ever tried to access a website but it does not loads???😭<br>
 And you wondered "Is it just me can't access the website?"<br>
-Well, I have created this useless project to answer that question.😏 [Learn more...](https://thegamerz29.github.io/Down-for-Everyone-or-Just-Me)
+Well, I have created this useless project to answer that question.😏 *[Learn more...](https://thegamerz29.github.io/Down-for-Everyone-or-Just-Me)*
 
 Download x64:<br>
 <a href="https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x64.exe" download="#DFJM">
@@ -127,7 +127,7 @@ Download README:<br>
 ---
   
 #### Macintosh.js
-This is Mac OS 8, running in an [Electron](https://electronjs.org/) app pretending to be a 1991 Macintosh Quadra. Yes, it's the full thing. I'm sorry. *[Learn more...](https://github.com/TheGamerz29/macintosh.js#macintoshjs)
+This is Mac OS 8, running in an [Electron](https://electronjs.org/) app pretending to be a 1991 Macintosh Quadra. Yes, it's the full thing. I'm sorry. *[Learn more...](https://github.com/TheGamerz29/macintosh.js#macintoshjs)*
 
 ![Screenshot](https://user-images.githubusercontent.com/1426799/88612692-a1d81a00-d040-11ea-85c9-c64142c503d5.jpg)
 
@@ -163,7 +163,7 @@ Installation:
 #### LIKO-12
 LIKO-12 is a fantasy computer that you can use to make, play and share tiny retro-looking games and programs. It comes with a default, fully customizable, DOS-like operating system installed, called DiskOS.<br>
 DiskOS provides an environment with basic command line programs and visual game editors.<br>
-The created games and programs are saved as disk files that can be easily shared to friends or anyone else. *[Learn more...](https://github.com/TheGamerz29/LIKO-12/blob/master/README.md)<br>
+The created games and programs are saved as disk files that can be easily shared to friends or anyone else. *[Learn more...](https://github.com/TheGamerz29/LIKO-12/blob/master/README.md)*<br>
 
 > [Here is the link to liko-12 website](https://liko-12.github.io/#/)
 
