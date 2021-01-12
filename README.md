@@ -212,7 +212,6 @@ You can view a population being infected by viruses with different properties. Y
 #### Open-Shell-Menu
 *Classic shell reborn.* *[Learn more...](https://github.com/Open-Shell/Open-Shell-Menu#open-shell-)*
 
-Download:
 <a href="https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.160/OpenShellSetup_4_4_160.exe" download="#openshell">
   <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="openshell" width="251" height="74">
 </a><br>
