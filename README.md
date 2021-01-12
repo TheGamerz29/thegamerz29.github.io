@@ -253,6 +253,3 @@ git clone https://github.com/danielmiessler/SecLists.git
 ```
 apt -y install seclists
 ```
-
-#### *View all of my repositories [here](https://github.com/TheGamerz29).*
-
