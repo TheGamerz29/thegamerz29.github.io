@@ -14,6 +14,8 @@ Everything I have ever down in github and others is available here.<br>
 ## Downloads
 ### **My projects**
 #### E.F.V.S.L.C
+![E.F.V.L.Cimg](https://content.instructables.com/ORIG/FEW/1TB2/KBRXY7R8/FEW1TB2KBRXY7R8.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=8233361f398eddbeb7c55e413bb5ac3a)<br>
+<br>
 Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this before.The Only thing that I. can describe it.This Fake virus simulator is only developed by one person. *[Learn more...](https://thegamerz29.github.io/E.F.V.S.L.C-Fake-Virus-Simulator/#efvslc-)*
 
 <a href="https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe" download="#efvslc">
@@ -23,6 +25,7 @@ Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Ez_Termux_Desktop
+![Image](https://github.com/adi1090x/termux-desktop/raw/master/previews/logo.png)
 Beautiful Termux desktop environment in a single script.*[Learn more...](https://github.com/TheGamerz29/Ez_Termux_Desktop#ez_termux_desktop)*
 > Installation
 ```bash
@@ -33,11 +36,9 @@ git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_D
 #### PHTB-
 Hack/Recover Wifi or Files using Brute-Force method. *[Learn more...](https://thegamerz29.github.io/PHTB-/#phtb-)*
 
-![downloadphtb](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
-
-You may download it below:
-
-> ***[PHTB](https://github.com/TheGamerz29/PHTB-/blob/master/PHTB%20V1.00BETA/PHTB%20V1.34%20Release%20Installer.exe)***
+<a href="https://github.com/TheGamerz29/PHTB-/releases/download/V1.36X/PHTB.V1.34.Release.Installer.zip" download="#PHTB">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="PHTB" width="251" height="74">
+</a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,15 +47,21 @@ You may download it below:
 
 Have you ever tried to access a website but it does not loads???😭<br>
 And you wondered "Is it just me can't access the website?"<br>
-Well, I have created this useless project to answer that question.😏<br>
+Well, I have created this useless project to answer that question.😏 [Learn more...](https://thegamerz29.github.io/Down-for-Everyone-or-Just-Me)
 
-![downloadDFJM](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
+Download x64:<br>
+<a href="https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x64.exe" download="#DFJM">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="dfjm" width="251" height="74">
+</a><br>
 
-> ***[Down-for-Everyone-or-Just-Me-x64](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x64.exe)***
-
-> ***[Down-for-Everyone-or-Just-Me-x86](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x86.exe)***
+Download x86:<br>
+<a href="https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x86.exe" download="#DFJM">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="dfjm" width="251" height="74">
+</a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+####
 
 #### *View all of my repositories [here](https://github.com/TheGamerz29).*
 
