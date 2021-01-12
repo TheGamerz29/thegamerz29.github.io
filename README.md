@@ -8,11 +8,10 @@ Download links to all of my github project is available here.
 ##### E.F.V.S.L.C
 Fake Virus Simulator With lore .It's hyper-realistic.No one have ever done this before.The Only thing that I. can describe it.This Fake virus simulator is only developed by one person.*[Learn more...](https://thegamerz29.github.io/E.F.V.S.L.C-Fake-Virus-Simulator/#efvslc-)*
 
-![download](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)
+<a href="https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe" download="#efvslc">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="E.F.V.S.L.C" width="251" height="74">
+</a>
 
-You may download it below:
-
-> ***[E.F.V.S.L.C](https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe)*** 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
