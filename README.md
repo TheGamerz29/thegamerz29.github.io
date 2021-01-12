@@ -23,7 +23,7 @@ Ez_Termux_Desktop (DEPRECATED)<br>
 ### **My projects**
 * Table of content:
   * [E.F.V.S.L.C](https://thegamerz29.github.io/#efvslc)
-  * [Ez-Termux-Desktop (DEPRECATED)](https://thegamerz29.github.io/#ez_termux_desktop)
+  * [Ez-Termux-Desktop (DEPRECATED)](https://thegamerz29.github.io/#ez_termux_desktop-deprecated)
   * [PHTB-](https://thegamerz29.github.io/#phtb-)
   * [Down for Everyone or Just Me](https://thegamerz29.github.io/#down-for-everyone-or-just-me)
   * [Compiler](https://thegamerz29.github.io/#compiler)
