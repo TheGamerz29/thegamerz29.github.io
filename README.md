@@ -3,7 +3,7 @@
 Welcome to TheGamerz29 Website! (Under work in progress)<br>
 Everything I have ever down in github and others is available here.<br>
 <br>
-**Contents**<br>
+**Table of content:**<br>
 * Downloads
   * [My projects](https://thegamerz29.github.io/#my-projects)
   * [Forks](https://thegamerz29.github.io/#forks)
@@ -61,7 +61,14 @@ Download x86:<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-####
+#### Compiler
+![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Compiler.png)<br>
+Tools i used for coding!<br>
+<a href="https://github.com/TheGamerz29/Compiler/releases/download/0.12/Compiler.zip" download="#comp">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="comp" width="251" height="74">
+</a><br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### *View all of my repositories [here](https://github.com/TheGamerz29).*
 
