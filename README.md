@@ -6,7 +6,7 @@ Everything I have ever down in github and others is available here.<br>
 ## Newest Project
 GSPW: Gain System Privilege in Windows (1/12/2021)<br>
 Down for Everyone or Just Me? (7/1/2021)<br>
-Ez_Termux_Desktop (DEPRECATED)
+Ez_Termux_Desktop (DEPRECATED)<br>
 **Table of content:**<br>
 * Downloads
   * [My projects](https://thegamerz29.github.io/#my-projects)
