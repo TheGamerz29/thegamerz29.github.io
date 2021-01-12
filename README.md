@@ -116,13 +116,13 @@ Download README:<br>
 
 ### **Forks**
 * Table of content:
-  * [Macintosh.js by felixrieseberg](https://thegamerz29.github.com/#macintosh.js)
-  * [tmoe-linux by 2moe](https://thegamerz29.github.com/#tmoe-linux)
-  * [LIKO-12 by LIKO-12](https://thegamerz29.github.com/#liko-12)
-  * [virusbreak by s-andrews](https://thegamerz29.github.com/#virusbreak)
-  * [Open-Shell-Menu by Open-Shell](https://thegamerz29.github.com/#open-shell-menu)
-  * [atilo by YadominJinta](https://thegamerz29.github.com/#atilo)
-  * [SecLists by danielmiessler](https://thegamerz29.github.com/#seclists)<br>
+  * [Macintosh.js by felixrieseberg](https://thegamerz29.github.io/#macintosh.js)
+  * [tmoe-linux by 2moe](https://thegamerz29.github.io/#tmoe-linux)
+  * [LIKO-12 by LIKO-12](https://thegamerz29.github.io/#liko-12)
+  * [virusbreak by s-andrews](https://thegamerz29.github.io/#virusbreak)
+  * [Open-Shell-Menu by Open-Shell](https://thegamerz29.github.io/#open-shell-menu)
+  * [atilo by YadominJinta](https://thegamerz29.github.io/#atilo)
+  * [SecLists by danielmiessler](https://thegamerz29.github.io/#seclists)<br>
   
 ---
   
