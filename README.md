@@ -2,8 +2,9 @@
 
 ![logo](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Logo.png)![code](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/CODE.png)
 # thegamerz29.github.io
-Welcome to TheGamerz29 Website! (W.I.P)<br>
+Welcome to TheGamerz29 Website!<br>
 Everything I have ever down in github and others is available here.<br>
+*If you are using smartphone, please rotate your device for optimal experience*
 <br>
 ## Newest Project
 GSPW: Gain System Privilege in Windows (1/12/2021)<br>
