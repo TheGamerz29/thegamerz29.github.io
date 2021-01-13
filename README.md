@@ -259,3 +259,12 @@ git clone https://github.com/danielmiessler/SecLists.git
 ```
 apt -y install seclists
 ```
+
+## Upcoming Projects
+
+There is currently no project work in progress.<br>
+I am taking a break.
+
+## Blogs
+
+No blogs currently.
