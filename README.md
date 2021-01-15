@@ -240,24 +240,24 @@ This project is maintained by Daniel Miessler, Jason Haddix, and g0tmi1k. *[Lear
 ##### Install
 
 **Zip**
-```
+```bash
 wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip \
   && unzip SecList.zip \
   && rm -f SecList.zip
 ```
 
 **Git (Small)**
-```
+```bash
 git clone --depth 1 https://github.com/danielmiessler/SecLists.git
 ```
 
 **Git (Complete)**
-```
+```bash
 git clone https://github.com/danielmiessler/SecLists.git
 ```
 
 **Kali Linux** ([Tool Page](https://tools.kali.org/password-attacks/seclists))
-```
+```bash
 apt -y install seclists
 ```
 
