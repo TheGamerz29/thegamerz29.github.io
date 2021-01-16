@@ -101,17 +101,8 @@ Tools i used for coding!<br>
 
 Tool to gain system privilege in windows. Very useful for system administrator. *[Learn more...](https://thegamerz29.github.io/GSPW)*<br>
 
-Download x64:<br>
-<a href="https://github.com/TheGamerz29/GSPW/releases/download/1.0.0.0/GSPWx64.exe" download="#GSPW">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="E.F.V.S.L.C" width="251" height="74">
-</a><br>
-Download x86:<br>
-<a href="https://github.com/TheGamerz29/GSPW/releases/download/1.0.0.0/GSPWx86.exe" download="#GSPW">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="E.F.V.S.L.C" width="251" height="74">
-</a><br>
-Download README:<br>
-<a href="https://github.com/TheGamerz29/GSPW/releases/download/1.0.0.0/README.txt" download="#GSPW">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="E.F.V.S.L.C" width="251" height="74">
+<a href="https://github.com/TheGamerz29/GSPW/releases/download/1.0.0.0/GSPW.rar" download="#gspw">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="gspwg" width="251" height="74">
 </a><br>
 
 ---
