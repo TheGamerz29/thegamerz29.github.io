@@ -1,292 +1,300 @@
+![logo](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Logo.png)![code](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/CODE.png)
 
-<p><img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Logo.png" alt="logo" /><img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/CODE.png" alt="code" /></p>
-<h1 id="thegamerz29githubio">thegamerz29.github.io</h1>
-<p>Welcome to TheGamerz29 Website!<br />
-Everything I have ever down in github and others is available here.<br />
-<em>If you are using smartphone, please rotate your device for optimal experience</em>
-<br /></p>
-<h2 id="newest-project">Newest Project</h2>
-<p>GSPW: Gain System Privilege in Windows (1/12/2021)<br />
-Down for Everyone or Just Me? (7/1/2021)<br />
-Ez_Termux_Desktop (DEPRECATED)<br /></p>
+# thegamerz29.github.io
 
-<hr />
-<p><strong>Table of content:</strong><br /></p>
-<ul>
-  <li>Downloads
-    <ul>
-      <li><a href="https://thegamerz29.github.io/#my-projects">My projects</a></li>
-      <li><a href="https://thegamerz29.github.io/#forks">Forks</a></li>
-    </ul>
-  </li>
-  <li>Other
-    <ul>
-      <li><a href="https://thegamerz29.github.io/#upcoming-projects">Upcoming Projects</a></li>
-      <li><a href="https://thegamerz29.github.io/#blogs">Blogs</a></li>
-    </ul>
-  </li>
-</ul>
+Welcome to TheGamerz29 Website!  
+Everything I have ever down in github and others is available here.  
+_If you are using smartphone, please rotate your device for optimal experience_  
 
-<h2 id="downloads">Downloads</h2>
-<h3 id="my-projects"><strong>My projects</strong></h3>
-<ul>
-  <li>Table of content:
-    <ul>
-      <li><a href="https://thegamerz29.github.io/#efvslc">E.F.V.S.L.C</a></li>
-      <li><a href="https://thegamerz29.github.io/#ez_termux_desktop-deprecated">Ez-Termux-Desktop (DEPRECATED)</a></li>
-      <li><a href="https://thegamerz29.github.io/#phtb-">PHTB-</a></li>
-      <li><a href="https://thegamerz29.github.io/#down-for-everyone-or-just-me">Down for Everyone or Just Me</a></li>
-      <li><a href="https://thegamerz29.github.io/#compiler">Compiler</a></li>
-      <li><a href="https://thegamerz29.github.io/#gspw-gain-system-privilege-in-windows">GSPW: Gain System Privilege in Windows</a><br /></li>
-    </ul>
-  </li>
-</ul>
+## Newest Project
 
-<h4 id="efvslc"><strong>E.F.V.S.L.C</strong></h4>
-<p><img src="https://content.instructables.com/ORIG/FEW/1TB2/KBRXY7R8/FEW1TB2KBRXY7R8.png?auto=webp&amp;frame=1&amp;width=1024&amp;height=1024&amp;fit=bounds&amp;md=8233361f398eddbeb7c55e413bb5ac3a" alt="E.F.V.L.Cimg" /><br />
-<br />
-Fake Virus Simulator With lore .It’s hyper-realistic.No one have ever done this before.The Only thing that I. can describe it.This Fake virus simulator is only developed by one person. <em><a href="https://thegamerz29.github.io/E.F.V.S.L.C-Fake-Virus-Simulator/#efvslc-">Learn more…</a></em></p>
+GSPW: Gain System Privilege in Windows (1/12/2021)  
+Down for Everyone or Just Me? (7/1/2021)  
+Ez_Termux_Desktop (DEPRECATED)  
 
-<p><a href="https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe" download="#efvslc">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="E.F.V.S.L.C" width="251" height="74" />
-</a></p>
+* * *
 
-<hr />
+**Table of content:**  
 
-<h4 id="ez_termux_desktop-deprecated"><strong>Ez_Termux_Desktop</strong> (DEPRECATED)</h4>
-<p><img src="https://github.com/adi1090x/termux-desktop/raw/master/previews/logo.png" alt="Image" />
-Beautiful Termux desktop environment in a single script.<em><a href="https://github.com/TheGamerz29/Ez_Termux_Desktop#ez_termux_desktop">Learn more…</a></em></p>
-<blockquote>
-  <p>Installation</p>
-  <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git <span class="o">&amp;&amp;</span> <span class="nb">cd </span>Ez_Termux_Desktop <span class="o">&amp;&amp;</span> clear <span class="o">&amp;&amp;</span> bash install.sh
-</code></pre></div>  </div>
-  <hr />
-</blockquote>
+*   Downloads
+    *   [My projects](https://thegamerz29.github.io/#my-projects)
+    *   [Forks](https://thegamerz29.github.io/#forks)
+*   Other
+    *   [Upcoming Projects](https://thegamerz29.github.io/#upcoming-projects)
+    *   [Blogs](https://thegamerz29.github.io/#blogs)
 
-<h4 id="phtb-"><strong>PHTB-</strong></h4>
-<p>Hack/Recover Wifi or Files using Brute-Force method. <em><a href="https://thegamerz29.github.io/PHTB-/#phtb-">Learn more…</a></em></p>
+## Downloads
 
-<p><img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/hacking_code.jpg" alt="haxy" /></p>
+### **My projects**
 
-<p><a href="https://github.com/TheGamerz29/PHTB-/releases/download/V1.36X/PHTB.V1.34.Release.Installer.zip" download="#PHTB">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="PHTB" width="251" height="74" />
-</a></p>
+*   Table of content:
+    *   [E.F.V.S.L.C](https://thegamerz29.github.io/#efvslc)
+    *   [Ez-Termux-Desktop (DEPRECATED)](https://thegamerz29.github.io/#ez_termux_desktop-deprecated)
+    *   [PHTB-](https://thegamerz29.github.io/#phtb-)
+    *   [Down for Everyone or Just Me](https://thegamerz29.github.io/#down-for-everyone-or-just-me)
+    *   [Compiler](https://thegamerz29.github.io/#compiler)
+    *   [GSPW: Gain System Privilege in Windows](https://thegamerz29.github.io/#gspw-gain-system-privilege-in-windows)  
 
-<hr />
+#### **E.F.V.S.L.C**
 
-<h4 id="down-for-everyone-or-just-me"><strong>Down for Everyone or Just Me?</strong></h4>
-<p><img src="https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/raw/gh-pages/raw/DFJM.ico" alt="Logo" /></p>
+![E.F.V.L.Cimg](https://content.instructables.com/ORIG/FEW/1TB2/KBRXY7R8/FEW1TB2KBRXY7R8.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=8233361f398eddbeb7c55e413bb5ac3a)  
 
-<p>Have you ever tried to access a website but it does not loads???😭<br />
-And you wondered “Is it just me can’t access the website?”<br />
-Well, I have created this useless project to answer that question.😏 <em><a href="https://thegamerz29.github.io/Down-for-Everyone-or-Just-Me">Learn more…</a></em></p>
+Fake Virus Simulator With lore .It’s hyper-realistic.No one have ever done this before.The Only thing that I. can describe it.This Fake virus simulator is only developed by one person. _[Learn more…](https://thegamerz29.github.io/E.F.V.S.L.C-Fake-Virus-Simulator/#efvslc-)_
 
-<p>Download x64:<br />
-<a href="https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x64.exe" download="#DFJM">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="dfjm" width="251" height="74" />
-</a><br /></p>
+[![E.F.V.S.L.C](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe)
 
-<p>Download x86:<br />
-<a href="https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x86.exe" download="#DFJM">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="dfjm" width="251" height="74" />
-</a></p>
+* * *
 
-<hr />
+#### **Ez_Termux_Desktop** (DEPRECATED)
 
-<h4 id="compiler"><strong>Compiler</strong></h4>
-<p><img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Compiler.png" alt="comp" /><br />
-Tools i used for coding!<br />
-<a href="https://github.com/TheGamerz29/Compiler/releases/download/0.12/Compiler.zip" download="#comp">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="comp" width="251" height="74" />
-</a><br /></p>
+![Image](https://github.com/adi1090x/termux-desktop/raw/master/previews/logo.png) Beautiful Termux desktop environment in a single script._[Learn more…](https://github.com/TheGamerz29/Ez_Termux_Desktop#ez_termux_desktop)_
 
-<hr />
+> Installation
+> 
+> <div class="language-bash highlighter-rouge">
+> 
+> <div class="highlight">
+> 
+>     git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_Desktop && clear && bash install.sh
+>     
+> 
+> </div>
+> 
+> </div>
+> 
+> * * *
 
-<h4 id="gspw-gain-system-privilege-in-windows"><strong>GSPW: Gain System Privilege in Windows</strong></h4>
-<p><img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWUI.png" alt="GSPWUI" /><br /></p>
-<blockquote>
-  <p><em>Screenshot of GSPW UI</em><br />
-<img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWCMD.png" alt="GSPWCMD" /><br />
-<em>CMD Mode</em><br />
-<img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWPOW.png" alt="GSPWPOW" /><br />
-<em>Powershell Mode</em><br /></p>
-</blockquote>
+#### **PHTB-**
 
-<hr />
+Hack/Recover Wifi or Files using Brute-Force method. _[Learn more…](https://thegamerz29.github.io/PHTB-/#phtb-)_
 
-<p>Tool to gain system privilege in windows. Very useful for system administrator. <em><a href="https://thegamerz29.github.io/GSPW">Learn more…</a></em><br /></p>
+![haxy](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/hacking_code.jpg)
 
-<p><a href="https://github.com/TheGamerz29/GSPW/releases/download/1.0.0.0/GSPW.rar" download="#gspw">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="gspwg" width="251" height="74" />
-</a><br /></p>
+[![PHTB](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/PHTB-/releases/download/V1.36X/PHTB.V1.34.Release.Installer.zip)
 
-<hr />
-<h6 id="this-project-is-powered-by-psexec-from-sysinternals">This project is powered by PsExec from Sysinternals.</h6>
-<hr />
+* * *
 
-<hr />
+#### **Down for Everyone or Just Me?**
 
-<h3 id="forks"><strong>Forks</strong></h3>
-<ul>
-  <li>Table of content:
-    <ul>
-      <li><a href="https://thegamerz29.github.io/#macintoshjs">Macintosh.js by felixrieseberg</a></li>
-      <li><a href="https://thegamerz29.github.io/#tmoe-linux">tmoe-linux by 2moe</a></li>
-      <li><a href="https://thegamerz29.github.io/#liko-12">LIKO-12 by LIKO-12</a></li>
-      <li><a href="https://thegamerz29.github.io/#virusbreak">virusbreak by s-andrews</a></li>
-      <li><a href="https://thegamerz29.github.io/#open-shell-menu">Open-Shell-Menu by Open-Shell</a></li>
-      <li><a href="https://thegamerz29.github.io/#atilo">atilo by YadominJinta</a></li>
-      <li><a href="https://thegamerz29.github.io/#seclists">SecLists by danielmiessler</a><br /></li>
-    </ul>
-  </li>
-</ul>
+![Logo](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/raw/gh-pages/raw/DFJM.ico)
 
-<hr />
+Have you ever tried to access a website but it does not loads???😭  
+And you wondered “Is it just me can’t access the website?”  
+Well, I have created this useless project to answer that question.😏 _[Learn more…](https://thegamerz29.github.io/Down-for-Everyone-or-Just-Me)_
 
-<h4 id="macintoshjs">Macintosh.js</h4>
-<p>This is Mac OS 8, running in an <a href="https://electronjs.org/">Electron</a> app pretending to be a 1991 Macintosh Quadra. Yes, it’s the full thing. I’m sorry. <em><a href="https://github.com/TheGamerz29/macintosh.js#macintoshjs">Learn more…</a></em></p>
+Download x64:  
+[![dfjm](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x64.exe)  
 
-<p><img src="https://user-images.githubusercontent.com/1426799/88612692-a1d81a00-d040-11ea-85c9-c64142c503d5.jpg" alt="Screenshot" /></p>
+Download x86:  
+[![dfjm](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/Down-for-Everyone-or-Just-Me/releases/download/1.0.0.0/Down.for.Everyone.or.Just.Me.x86.exe)
 
-<p>Download x64 Installer💿:<br />
-<a href="https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintoshjs-1.1.0-setup-x64.exe" download="#macx64i">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="macx64i" width="251" height="74" />
-</a><br />
-Download x86 Installer💿:<br />
-<a href="https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintoshjs-1.1.0-setup-ia32.exe" download="#macx86i">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="macx86i" width="251" height="74" />
-</a><br />
-Download x64 Portable📦:<br />
-<a href="https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintosh.js-win32-ia32-1.1.0.zip" download="#macx64p">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="macx64p" width="251" height="74" />
-</a><br />
-Download x86 Portable📦:<br />
-<a href="https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintosh.js-win32-ia32-1.1.0.zip" download="#macx86p">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="macx86p" width="251" height="74" />
-</a><br /></p>
+* * *
 
-<hr />
+#### **Compiler**
 
-<h4 id="tmoe-linux">tmoe-linux</h4>
-<p>🍭Without any basic knowledge of linux shell,you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.🍹Graphical qemu manager，🐋support running docker on Android. <em><a href="https://github.com/TheGamerz29/tmoe-linux#tmoe-linux">Learn more…</a></em><br /></p>
+![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Compiler.png)  
+Tools i used for coding!  
+[![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/Compiler/releases/download/0.12/Compiler.zip)  
 
-<p>Installation:</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">.</span> &lt;<span class="o">(</span>curl <span class="nt">-L</span> git.io/linux.sh<span class="o">)</span>
-</code></pre></div></div>
+* * *
 
-<hr />
+#### **GSPW: Gain System Privilege in Windows**
 
-<h4 id="liko-12">LIKO-12</h4>
-<p>LIKO-12 is a fantasy computer that you can use to make, play and share tiny retro-looking games and programs. It comes with a default, fully customizable, DOS-like operating system installed, called DiskOS.<br />
-DiskOS provides an environment with basic command line programs and visual game editors.<br />
-The created games and programs are saved as disk files that can be easily shared to friends or anyone else. <em><a href="https://github.com/TheGamerz29/LIKO-12/blob/master/README.md">Learn more…</a></em><br /></p>
+![GSPWUI](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWUI.png)  
 
-<p><img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Liko-12img.png" alt="liko" /></p>
+> _Screenshot of GSPW UI_  
+> ![GSPWCMD](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWCMD.png)  
+> _CMD Mode_  
+> ![GSPWPOW](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/GSPWPOW.png)  
+> _Powershell Mode_
 
-<blockquote>
-  <p><a href="https://liko-12.github.io/#/">Here is the link to liko-12 website</a></p>
-</blockquote>
+* * *
 
-<p>Download Changelog.txt:<br />
-<a href="https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/Changelog.txt" download="#changelogliko">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="changelogliko" width="251" height="74" />
-</a><br />
-Linux version:<br />
-<a href="https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Linux_x86_64.AppImage" download="#likolnx">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="likolnx" width="251" height="74" />
-</a><br />
-MacOS version:<br />
-<a href="https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_macOS.zip" download="#likomac">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="likomac" width="251" height="74" />
-</a><br />
-LÖVE version(Universal):<br />
-<a href="https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Universal.love" download="#likouni">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="likouni" width="251" height="74" />
-</a><br />
-Windows version(x86):<br />
-<a href="https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Windows_i686.zip" download="#likowinx86">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="likowinx86" width="251" height="74" />
-</a><br />
-Windows version(x64):<br />
-<a href="https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Windows_x86_64.zip" download="#likowinx64">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="likowinx64" width="251" height="74" />
-</a><br /></p>
+Tool to gain system privilege in windows. Very useful for system administrator. _[Learn more…](https://thegamerz29.github.io/GSPW)_  
 
-<hr />
+[![gspwg](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/GSPW/releases/download/1.0.0.0/GSPW.rar)  
 
-<h4 id="virusbreak">virusbreak</h4>
-<p>VirusBreak is a javascript based web simulator of virus outbreaks.
-You can view a population being infected by viruses with different properties. You can explore how the effect of vaccination or quarantine affect the ability of virus outbreaks to spread. You can also see how the properties of different viruses such as their virulence or incubtation time will change how effective preventative measures are.</p>
+* * *
 
-<p><a href="https://github.com/TheGamerz29/virusbreak">Link to virusbreak repository</a></p>
+###### This project is powered by PsExec from Sysinternals.
 
-<p><a href="https://s-andrews.github.io/virusbreak/www/">Give it a try!</a></p>
+* * *
 
-<hr />
+* * *
 
-<h4 id="open-shell-menu">Open-Shell-Menu</h4>
-<p><em>Classic shell reborn.</em> <em><a href="https://github.com/Open-Shell/Open-Shell-Menu#open-shell-">Learn more…</a></em></p>
+### **Forks**
 
-<p><a href="https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.160/OpenShellSetup_4_4_160.exe" download="#openshell">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="openshell" width="251" height="74" />
-</a><br /></p>
+*   Table of content:
+    *   [Macintosh.js by felixrieseberg](https://thegamerz29.github.io/#macintoshjs)
+    *   [tmoe-linux by 2moe](https://thegamerz29.github.io/#tmoe-linux)
+    *   [LIKO-12 by LIKO-12](https://thegamerz29.github.io/#liko-12)
+    *   [virusbreak by s-andrews](https://thegamerz29.github.io/#virusbreak)
+    *   [Open-Shell-Menu by Open-Shell](https://thegamerz29.github.io/#open-shell-menu)
+    *   [atilo by YadominJinta](https://thegamerz29.github.io/#atilo)
+    *   [SecLists by danielmiessler](https://thegamerz29.github.io/#seclists)  
 
-<hr />
+* * *
 
-<h4 id="atilo">atilo</h4>
-<p>A program to install linux on termux. <em><a href="https://github.com/TheGamerz29/atilo#atilo">Learn more…</a></em><br /></p>
+#### Macintosh.js
 
-<p>Installation:</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"deb [trusted=yes arch=all] https://yadominjinta.github.io/files/ termux extras"</span> <span class="o">&gt;&gt;</span> <span class="nv">$PREFIX</span>/etc/apt/sources.list.d/atilo.list
-apt update <span class="o">&amp;&amp;</span> apt <span class="nb">install </span>atilo
-</code></pre></div></div>
+This is Mac OS 8, running in an [Electron](https://electronjs.org/) app pretending to be a 1991 Macintosh Quadra. Yes, it’s the full thing. I’m sorry. _[Learn more…](https://github.com/TheGamerz29/macintosh.js#macintoshjs)_
 
-<hr />
+![Screenshot](https://user-images.githubusercontent.com/1426799/88612692-a1d81a00-d040-11ea-85c9-c64142c503d5.jpg)
 
-<h4 id="seclists">SecLists</h4>
-<p>SecLists is the security tester’s companion. It’s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.</p>
+Download x64 Installer💿:  
+[![macx64i](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintoshjs-1.1.0-setup-x64.exe)  
+Download x86 Installer💿:  
+[![macx86i](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintoshjs-1.1.0-setup-ia32.exe)  
+Download x64 Portable📦:  
+[![macx64p](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintosh.js-win32-ia32-1.1.0.zip)  
+Download x86 Portable📦:  
+[![macx86p](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.1.0/macintosh.js-win32-ia32-1.1.0.zip)  
 
-<p>This project is maintained by Daniel Miessler, Jason Haddix, and g0tmi1k. <em><a href="https://github.com/TheGamerz29/SecLists">Learn more…</a></em></p>
+* * *
 
-<h5 id="install">Install</h5>
+#### tmoe-linux
 
-<p><strong>Zip</strong></p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget <span class="nt">-c</span> https://github.com/danielmiessler/SecLists/archive/master.zip <span class="nt">-O</span> SecList.zip <span class="se">\</span>
-  <span class="o">&amp;&amp;</span> unzip SecList.zip <span class="se">\</span>
-  <span class="o">&amp;&amp;</span> <span class="nb">rm</span> <span class="nt">-f</span> SecList.zip
-</code></pre></div></div>
+🍭Without any basic knowledge of linux shell,you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.🍹Graphical qemu manager，🐋support running docker on Android. _[Learn more…](https://github.com/TheGamerz29/tmoe-linux#tmoe-linux)_  
 
-<p><strong>Git (Small)</strong></p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone <span class="nt">--depth</span> 1 https://github.com/danielmiessler/SecLists.git
-</code></pre></div></div>
+Installation:
 
-<p><strong>Git (Complete)</strong></p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/danielmiessler/SecLists.git
-</code></pre></div></div>
+<div class="language-bash highlighter-rouge">
 
-<p><strong>Kali Linux</strong> (<a href="https://tools.kali.org/password-attacks/seclists">Tool Page</a>)</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>apt <span class="nt">-y</span> <span class="nb">install </span>seclists
-</code></pre></div></div>
+<div class="highlight">
 
-<h2 id="upcoming-projects">Upcoming Projects</h2>
+    . <(curl -L git.io/linux.sh)
 
-<p>There is currently no project work in progress.<br />
-I am taking a break.</p>
+</div>
 
-<h2 id="blogs">Blogs</h2>
+</div>
 
-<p>No blogs currently.</p>
+* * *
 
-        </section>
+#### LIKO-12
 
-        <footer>
-        
-          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.
-        </footer>
+LIKO-12 is a fantasy computer that you can use to make, play and share tiny retro-looking games and programs. It comes with a default, fully customizable, DOS-like operating system installed, called DiskOS.  
+DiskOS provides an environment with basic command line programs and visual game editors.  
+The created games and programs are saved as disk files that can be easily shared to friends or anyone else. _[Learn more…](https://github.com/TheGamerz29/LIKO-12/blob/master/README.md)_  
 
-      </div>
-    </div>
+![liko](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Liko-12img.png)
 
-    
-  </body>
-</html>
+> [Here is the link to liko-12 website](https://liko-12.github.io/#/)
+
+Download Changelog.txt:  
+[![changelogliko](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/Changelog.txt)  
+Linux version:  
+[![likolnx](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Linux_x86_64.AppImage)  
+MacOS version:  
+[![likomac](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_macOS.zip)  
+LÖVE version(Universal):  
+[![likouni](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Universal.love)  
+Windows version(x86):  
+[![likowinx86](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Windows_i686.zip)  
+Windows version(x64):  
+[![likowinx64](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/LIKO-12/LIKO-12/releases/download/1.1.0/LIKO-12_V1.1.0_Windows_x86_64.zip)  
+
+* * *
+
+#### virusbreak
+
+VirusBreak is a javascript based web simulator of virus outbreaks. You can view a population being infected by viruses with different properties. You can explore how the effect of vaccination or quarantine affect the ability of virus outbreaks to spread. You can also see how the properties of different viruses such as their virulence or incubtation time will change how effective preventative measures are.
+
+[Link to virusbreak repository](https://github.com/TheGamerz29/virusbreak)
+
+[Give it a try!](https://s-andrews.github.io/virusbreak/www/)
+
+* * *
+
+#### Open-Shell-Menu
+
+_Classic shell reborn._ _[Learn more…](https://github.com/Open-Shell/Open-Shell-Menu#open-shell-)_
+
+[![openshell](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.160/OpenShellSetup_4_4_160.exe)  
+
+* * *
+
+#### atilo
+
+A program to install linux on termux. _[Learn more…](https://github.com/TheGamerz29/atilo#atilo)_  
+
+Installation:
+
+<div class="language-bash highlighter-rouge">
+
+<div class="highlight">
+
+    echo "deb [trusted=yes arch=all] https://yadominjinta.github.io/files/ termux extras" >> $PREFIX/etc/apt/sources.list.d/atilo.list
+    apt update && apt install atilo
+
+</div>
+
+</div>
+
+* * *
+
+#### SecLists
+
+SecLists is the security tester’s companion. It’s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.
+
+This project is maintained by Daniel Miessler, Jason Haddix, and g0tmi1k. _[Learn more…](https://github.com/TheGamerz29/SecLists)_
+
+##### Install
+
+**Zip**
+
+<div class="language-bash highlighter-rouge">
+
+<div class="highlight">
+
+    wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip \
+      && unzip SecList.zip \
+      && rm -f SecList.zip
+
+</div>
+
+</div>
+
+**Git (Small)**
+
+<div class="language-bash highlighter-rouge">
+
+<div class="highlight">
+
+    git clone --depth 1 https://github.com/danielmiessler/SecLists.git
+
+</div>
+
+</div>
+
+**Git (Complete)**
+
+<div class="language-bash highlighter-rouge">
+
+<div class="highlight">
+
+    git clone https://github.com/danielmiessler/SecLists.git
+
+</div>
+
+</div>
+
+**Kali Linux** ([Tool Page](https://tools.kali.org/password-attacks/seclists))
+
+<div class="language-bash highlighter-rouge">
+
+<div class="highlight">
+
+    apt -y install seclists
+
+</div>
+
+</div>
+
+## Upcoming Projects
+
+There is currently no project work in progress.  
+I am taking a break.
+
+## Blogs
+
+No blogs currently.
