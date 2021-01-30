@@ -52,19 +52,11 @@ Fake Virus Simulator With lore .It’s hyper-realistic.No one have ever done thi
 ![Image](https://github.com/adi1090x/termux-desktop/raw/master/previews/logo.png) Beautiful Termux desktop environment in a single script._[Learn more…](https://github.com/TheGamerz29/Ez_Termux_Desktop#ez_termux_desktop)_
 
 > Installation
-> 
-> <div class="language-bash highlighter-rouge">
-> 
-> <div class="highlight">
-> 
->     git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_Desktop && clear && bash install.sh
->     
-> 
-> </div>
-> 
-> </div>
-> 
-> * * *
+```bash
+git clone https://github.com/TheGamerz29/Ez_Termux_Desktop.git && cd Ez_Termux_Desktop && clear && bash install.sh
+```
+
+* * *
 
 #### **PHTB-**
 
@@ -160,15 +152,9 @@ Download x86 Portable📦:
 
 Installation:
 
-<div class="language-bash highlighter-rouge">
-
-<div class="highlight">
-
-    . <(curl -L git.io/linux.sh)
-
-</div>
-
-</div>
+```bash
+. <(curl -L git.io/linux.sh)
+```
 
 * * *
 
