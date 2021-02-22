@@ -88,7 +88,7 @@ Download x86:
 
 ![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Compiler.png)  
 Tools i used for coding!  
-[![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/Compiler/releases/download/0.12/Compiler.zip)  
+[![comp](https://github.com/TheGamerz29/Compiler/archive/main.zip)  
 
 * * *
 
