@@ -278,10 +278,16 @@ This project is maintained by Daniel Miessler, Jason Haddix, and g0tmi1k. _[Lear
 
 </div>
 
-## Upcoming Projects
+## Upcoming Projects<br>
+Legends:<br>
 
-There is currently no project work in progress.  
-I am taking a break.
+😎: Highest Priority<br>
+😀: Medium Priority<br>
+😑: Side Projects(Low)<br>
+👍🏻: Last Stage of Development<br>
+
+1. Spoofle: Privacy Respecting Google Search 😎👍🏻<br>
+2. YTMVD: Youtube Music and Video Downloader 😑<br>
 
 ## Blogs
 
