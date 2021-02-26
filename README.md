@@ -35,6 +35,7 @@ Ez_Termux_Desktop (DEPRECATED)
     *   [Down for Everyone or Just Me](https://thegamerz29.github.io/#down-for-everyone-or-just-me)
     *   [Compiler](https://thegamerz29.github.io/#compiler)
     *   [GSPW: Gain System Privilege in Windows](https://thegamerz29.github.io/#gspw-gain-system-privilege-in-windows)  
+    *   [Spoofle](https://thegamerz29.github.io/#spoofle)
 
 #### **E.F.V.S.L.C**
 
@@ -112,6 +113,12 @@ Tool to gain system privilege in windows. Very useful for system administrator. 
 ###### This project is powered by PsExec from Sysinternals.
 
 * * *
+
+#### Spoofle
+
+Google search without google trackers and ads. _[Learn more…](https://github.com/TheGamerz29/Spoofle)_
+
+To install, Please visit https://github.com/TheGamerz29/Spoofle.
 
 * * *
 
@@ -286,5 +293,4 @@ Legends:<br>
 ⏸: Development have been paused<br>
 👍🏻: Last Stage of Development<br>
 
-1. Spoofle: Privacy Respecting Google Search 😎👍🏻<br>
-2. YTMVD: Youtube Music and Video Downloader 😑<br>
+1. YTMVD: Youtube Music and Video Downloader 👍🏻<br>
