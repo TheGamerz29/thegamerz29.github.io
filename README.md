@@ -88,7 +88,7 @@ Download x86:
 
 ![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Compiler.png)  
 Tools i used for coding!  
-[![comp](https://github.com/TheGamerz29/Compiler/archive/main.zip)  
+[![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png)](https://github.com/TheGamerz29/Compiler/archive/main.zip)
 
 * * *
 
@@ -115,6 +115,8 @@ Tool to gain system privilege in windows. Very useful for system administrator. 
 * * *
 
 #### Spoofle
+
+![spooflesplash](https://github.com/TheGamerz29/Spoofle/raw/main/Screenshot%20(23).png)
 
 Google search without google trackers and ads. _[Learn more…](https://github.com/TheGamerz29/Spoofle)_
 
