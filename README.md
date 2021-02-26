@@ -23,7 +23,6 @@ Ez_Termux_Desktop (DEPRECATED)
     *   [Forks](https://thegamerz29.github.io/#forks)
 *   Other
     *   [Upcoming Projects](https://thegamerz29.github.io/#upcoming-projects)
-    *   [Blogs](https://thegamerz29.github.io/#blogs)
 
 ## Downloads
 
@@ -284,11 +283,8 @@ Legends:<br>
 😎: Highest Priority<br>
 😀: Medium Priority<br>
 😑: Side Projects(Low)<br>
+⏸: Development have been paused<br>
 👍🏻: Last Stage of Development<br>
 
 1. Spoofle: Privacy Respecting Google Search 😎👍🏻<br>
 2. YTMVD: Youtube Music and Video Downloader 😑<br>
-
-## Blogs
-
-No blogs currently.
