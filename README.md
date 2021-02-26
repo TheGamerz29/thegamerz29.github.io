@@ -118,7 +118,7 @@ Tool to gain system privilege in windows. Very useful for system administrator. 
 
 Google search without google trackers and ads. _[Learn more…](https://github.com/TheGamerz29/Spoofle)_
 
-To install, Please visit https://github.com/TheGamerz29/Spoofle.
+To install, Please visit [Spoofle Repository](https://github.com/TheGamerz29/Spoofle)
 
 * * *
 
