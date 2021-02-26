@@ -292,8 +292,8 @@ Legends:<br>
 😎: Highest Priority<br>
 😀: Medium Priority<br>
 😑: Side Projects(Low)<br>
-⏸: Development have been paused<br>
+🅿: Development have been paused<br>
 👍🏻: Last Stage of Development<br>
 
 1. YTMVD: Youtube Music and Video Downloader 👍🏻<br>
-2. E.F.V.S.L.C Revamp
+2. E.F.V.S.L.C Revamp 🅿
