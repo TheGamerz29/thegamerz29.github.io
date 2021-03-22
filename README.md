@@ -36,6 +36,7 @@ _If you are using smartphone, please rotate your device for optimal experience_
     *   [Compiler](https://thegamerz29.github.io/#compiler)
     *   [GSPW: Gain System Privilege in Windows](https://thegamerz29.github.io/#gspw-gain-system-privilege-in-windows)  
     *   [Spoofle](https://thegamerz29.github.io/#spoofle)
+    *   [1ClickTYTD](https://thegamerz29.github.io/#1clicktytd)
 
 #### **E.F.V.S.L.C**
 
@@ -121,6 +122,15 @@ Tool to gain system privilege in windows. Very useful for system administrator. 
 Google search without google trackers and ads. _[Learn more…](https://github.com/TheGamerz29/Spoofle)_
 
 To install, Please visit [Spoofle Repository](https://github.com/TheGamerz29/Spoofle)
+
+* * *
+
+#### 1ClickTYTD
+Allows you to download video and music from youtube. _[Learn more...](https://github.com/TheGamerz29/1ClickTYTD#1clicktytd-yeah-the-name-sucks) 
+
+To install, please visit [1ClickTYTD Repository](https://github.com/TheGamerz29/1ClickTYTD) 
+
+Please take note that this only works on android using Termux. 
 
 * * *
 
