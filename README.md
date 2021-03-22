@@ -126,7 +126,7 @@ To install, Please visit [Spoofle Repository](https://github.com/TheGamerz29/Spo
 * * *
 
 #### 1ClickTYTD
-Allows you to download video and music from youtube. _[Learn more...](https://github.com/TheGamerz29/1ClickTYTD#1clicktytd-yeah-the-name-sucks) 
+Allows you to download video and music from youtube. _[Learn more...](https://github.com/TheGamerz29/1ClickTYTD#1clicktytd-yeah-the-name-sucks)_
 
 To install, please visit [1ClickTYTD Repository](https://github.com/TheGamerz29/1ClickTYTD) 
 
